@@ -2,16 +2,14 @@
   "addons": {
     "{c3c00c2a-d281-4553-8f71-9a358a7865df}": {
       "updates": [        
-        { "version": "1.0.2f",
-          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter102f.xpi",
-          "update_hash": "sha256:202D3C3E6C478727493AD854867FFF46879BF93C2B24DD0055790DF63BFB2062" },
-        { "version": "1.0.2g",
-          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter102g.xpi",
-	  "update_hash": "sha256:64BCF7D130AC1147907251FBAB222CAC1A5378F5B67082217CE316B0AC423DF8" },
-	{ "version": "1.0.2h",
-          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter102h.xpi",
-	  "update_hash": "sha256:ED16C64EA761A4B6450284D0E6AFCD71BF7201E30F73F9FF25EC8D5D8B906A31" }
+        { "version": "1.0.20",
+          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter1020.xpi",
+          "update_hash": "sha256:F4B5002836998974259ACC348A6661CAC771D72CB66BAE32D288993BC408A1D1" },
+        { "version": "1.0.21",
+          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter1021.xpi",
+	   "update_hash": "sha256:F168933944C908BB67C18A634F78CC15BD59C4055D89CD88FA00A9358ED64243" }
       ]
     }
   }
 }
+
