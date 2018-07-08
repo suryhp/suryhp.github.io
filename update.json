@@ -1,6 +1,6 @@
 {
   "addons": {
-    "{c3c00c2a-d281-4553-8f71-9a358a7865df}": {
+    "baiduexporter@addons.mozilla.org": {
       "updates": [        
         { "version": "1.0.2.1",
           "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.1/BaiduExporter1.0.2.1.xpi",
