@@ -1,1 +1,1 @@
-# suryhp.github.io
+https://suryhp.github.io/update.json
