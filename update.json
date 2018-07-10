@@ -6,7 +6,7 @@
           "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.1/BaiduExporter1.0.2.1.xpi",
           "update_hash": "sha256:d6e587b466d80dc9dcb8cc72239d268b8de894521c220df822ecfbddc46fb53b" },
         { "version": "1.0.2.2",
-          "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.2/BaiduExporter1.0.2.2.xpi",
+          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter.xpi",
 	   "update_hash": "sha256:718592a1c86b635d3e2c2babd64c9bc2128e6979ca309e0abc27285dc95a6219" }
       ]
     }
