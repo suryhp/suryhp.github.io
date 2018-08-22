@@ -7,7 +7,10 @@
           "update_hash": "sha256:d6e587b466d80dc9dcb8cc72239d268b8de894521c220df822ecfbddc46fb53b" },
         { "version": "1.0.2.2",
           "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.2/BaiduExporter1.0.2.2.xpi",
-	   "update_hash": "sha256:718592a1c86b635d3e2c2babd64c9bc2128e6979ca309e0abc27285dc95a6219" }
+	   "update_hash": "sha256:718592a1c86b635d3e2c2babd64c9bc2128e6979ca309e0abc27285dc95a6219" },
+	{ "version": "1.0.2.3",
+          "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.3/BaiduExporter1.0.2.3.xpi",
+	   "update_hash": "sha256:43411cedac4972e11a89d3bd3581061dd74dc27d9bc8dc3fac0b89a7e4d429e7" }
       ]
     }
   }
