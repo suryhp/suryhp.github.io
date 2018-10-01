@@ -2,15 +2,15 @@
   "addons": {
     "baiduexporter@addons.mozilla.org": {
       "updates": [        
-        { "version": "1.0.2.2",
-          "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.2/BaiduExporter1.0.2.2.xpi",
-	   "update_hash": "sha256:718592a1c86b635d3e2c2babd64c9bc2128e6979ca309e0abc27285dc95a6219" },
 	{ "version": "1.0.2.3",
           "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.3/BaiduExporter1.0.2.3.xpi",
 	   "update_hash": "sha256:43411cedac4972e11a89d3bd3581061dd74dc27d9bc8dc3fac0b89a7e4d429e7" },
 	{ "version": "1.0.2.4",
           "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.4/BaiduExporter1.0.2.4.xpi",
-	   "update_hash": "sha256:5f3a2c6dc7dc249a62cfd52095fdb87cb07d529e197b6b5f5b60ee3e8da6d71a" }
+	   "update_hash": "sha256:5f3a2c6dc7dc249a62cfd52095fdb87cb07d529e197b6b5f5b60ee3e8da6d71a" },
+	{ "version": "1.0.2.5",
+          "update_link": "https://github.com/suryhp/BaiduExporter/releases/download/1.0.2.5/BaiduExporter1.0.2.5.xpi",
+	   "update_hash": "sha256:a9fd7d74501f0b6aea7a3a113656641f3d13947f7e2408a2cf70d5f4241ded36" }
       ]
     }
   }
